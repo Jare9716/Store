@@ -8,7 +8,7 @@ This project use Bootstrap but is already installed
 
 # Web Page
 
-[Coffee Shop](https://jare9716.github.io/CoffeShoop/)
+[Store](https://jare9716.github.io/Store/)
 
 # Images
 
